@@ -1,10 +1,10 @@
 # Read Me
 
-The repository underlying the website for [Deconstructing Digital Scholarship Consultations in the Library](https://acrldigschol.github.io/deconstructing-consultations/), a preconference sponsored by ACRL during the [2018 ALA Annual Conference](https://2018.alaannual.org/) in New Orleans, Louisiana.
+Repository underlying the website for [Deconstructing Digital Scholarship Consultations in the Library](https://acrldigschol.github.io/deconstructing-consultations/), a preconference sponsored by ACRL during the [2018 ALA Annual Conference](https://2018.alaannual.org/) in New Orleans, Louisiana.
 
 ## How Did They Make That?
 
-Created by following [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), written by Amanda Visconti for [The Programming Historian](https://programminghistorian.org/).
+Created by following the [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) lesson written by Amanda Visconti for [The Programming Historian](https://programminghistorian.org/).
 
 ## Rights
 
