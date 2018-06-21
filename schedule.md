@@ -4,12 +4,14 @@ title: Overview and Schedule
 permalink: /schedule/
 ---
 
+View or download the [slide deck](https://docs.google.com/presentation/d/1WN_ySAVesD2Z2t_SGGI01jeWESr9x4N3SxKKuzKWuzc/edit?usp=sharing) accompanying this preconference.
+
 ## Introduction (Brianna)
 
 * Overview of afternoon
 * Group icebreaker
 
-## Panel 1 (Brianna & Chelcie)
+## Panel 1 (Brianna and Chelcie)
 
 * Digital scholarship and academic libraries
 * Digital scholarship project design and management
@@ -25,7 +27,7 @@ Deconstructing digital scholarship projects
 
 ## Break
 
-## Panel 2 (Andrew & Joel)
+## Panel 2 (Andrew and Joel)
 
 Digital scholarship consultation models at our institutions
 

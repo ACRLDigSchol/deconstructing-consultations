@@ -34,7 +34,7 @@ This preconference is ideally suited for both functional specialists (including 
 
 ### How to register
 
-Want to register for the preconference at the same time that you register for the conference? Submit your registration for both from the [registration page](https://2018.alaannual.org/registration/register-now) on the [2018 ALA Annual Conference](https://2018.alaannual.org). The preconference code is ACR2.
+Want to register for the preconference at the same time that you register for the conference? Submit your registration for both from the [registration page](https://2018.alaannual.org/registration/register-now) on the [2018 ALA Annual Conference](https://2018.alaannual.org) website. The preconference code is ACR2.
 
 Want to add this event to an existing registration? Visit your dashboard link, which can be found in your confirmation email. If you need additional assistance or cannot locate your confirmation, please call CompuSystems at [866-513-0760](tel:866-513-0760) or email [alaregistration@compusystems.com](mailto:alaregistration@compusystems.com).
 
