@@ -4,7 +4,7 @@ Repository underlying the website for [Deconstructing Digital Scholarship Consul
 
 ## How Did They Make That?
 
-Created by following the [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) lesson written by Amanda Visconti for [The Programming Historian](https://programminghistorian.org/).
+Created by following the [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) lesson written by Amanda Visconti for [Programming Historian](https://programminghistorian.org/).
 
 ## Rights
 
