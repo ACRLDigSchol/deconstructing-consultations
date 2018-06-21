@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Deconstructing Digital Scholarship Consultations in the Library
+author: Andrew Johnson, Alix Keener, Brianna Marshall, Chelcie Juliet Rowell, and Joel Thornton
 email: dssexec-l@lists.ala.org
 description: An ACRL preconference offered during the 2018 ALA Annual Conference in New Orleans, Louisiana.
 baseurl: "/deconstructing-consultations" # the subpath of your site, e.g. /blog
