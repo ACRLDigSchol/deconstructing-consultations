@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview & Schedule
+title: Overview and Schedule
 permalink: /schedule/
 ---
 
