@@ -4,7 +4,7 @@ title: Overview and Schedule
 permalink: /schedule/
 ---
 
-View or download the [slide deck](https://docs.google.com/presentation/d/1WN_ySAVesD2Z2t_SGGI01jeWESr9x4N3SxKKuzKWuzc/edit?usp=sharing) accompanying this preconference.
+Download the [slide deck](https://github.com/ACRLDigSchol/deconstructing-consultations/blob/gh-pages/2018-06-22-preconference-slides.pptx?raw=true) accompanying this preconference.
 
 ## Introduction (Brianna)
 
