@@ -8,8 +8,8 @@ permalink: /activity-2/
 
 ### Schedule
 
-* 2:35–2:40. Pick a consultation scenario and a partner.
-* 2:40–3:00. Discuss with your partner (segue into table-based discussions if you'd like).
+* 2:35–2:40. Choose a partner, and discuss assigned consultation scenario.
+* 2:40–3:00. Segue into table-based discussion.
 * 3:00–3:15. Report out, sharing strategies and approaches with larger group.
 
 ### Materials
@@ -23,8 +23,8 @@ permalink: /activity-2/
 
 ### Instructions
 
-1. Review and select the consultation scenario you would like to focus on.
+1. Review and select the consultation scenario assigned to your table.
 * Scenarios 1–4 are external client scenarios.
 * Scenarios 5–6 are internal library conversations.
-1. Work through the questions listed below your chosen scenario with your partner. If you have time, feel free to discuss your scenario with others at your table.
+1. Work through the questions listed below your chosen scenario with your partner, then with others at your table.
 1. Report out on your approach to the scenario and any highlights of your discussion.
